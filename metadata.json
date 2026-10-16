@@ -1,0 +1,6 @@
+{
+  "name": "MindEase - AI Mental Wellness & Support Companion",
+  "description": "An empathetic, private AI psychologist and mental wellness companion providing emotional support, mood tracking, guided breathing exercises, and crisis safety resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
